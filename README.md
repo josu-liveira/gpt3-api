@@ -1,1 +1,1 @@
-# gpt3-api
+# Uma API do ChatGPT gratuita
